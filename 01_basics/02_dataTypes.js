@@ -3,13 +3,22 @@
 
 //premitive data-types
 //number 3,4,5...
+
 //bigint thulo value
+
+
 //sting "nimesh"
+
+
 //boolean =>true/false
+
+
 //null => standalone value =>null object ho
-//undefeined=> yesko type undefined ho.
+
+
+//undefeined=> yesko type undefined ho.jasko value assigned vako xaina teslai undefined vaninxa
 
 //object
+// let x;
+// console.log(typeof x );
 
-console.log(typeof null);
-let state = null;
